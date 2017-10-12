@@ -1,6 +1,6 @@
 # Eluploader
 
--Usage:
+- **Usage:**
 
         var options={
           "file": {
